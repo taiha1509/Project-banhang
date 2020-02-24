@@ -1,0 +1,7 @@
+.bg-warning {
+    background-color: #343a40 !important;
+    color: #fff !important;
+}
+a.bg-warning:hover{
+    background-color: #5a88ca !important;
+}

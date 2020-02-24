@@ -1,0 +1,44 @@
+.colorlib-footer-links{
+    padding-left: 0px;
+}
+ul{
+    list-style: none;
+}
+hr{
+    width:80%;
+    background-color: #D8D8D8;
+}
+#colorlib-footer{
+    background-color: #343a40;
+    color: #fff;
+    padding-top: 40px;
+}
+#colorlib-footer a{
+    color : #5a88ca !important;
+}
+.social_web_icon{
+    display:inline-block;
+}
+.social_web_icon :hover{
+    cursor: pointer;
+}
+.facebook_icon{
+   height:24px;
+   width:24px;
+   background : url("/Image/image/footer/icons8-facebook-24.png") center no-repeat;
+}
+.insta_icon{
+    height:24px;
+    width:24px;
+    background : url("/Image/image/footer/icons8-instagram-24.png") center no-repeat;
+}
+.twitter_icon{
+    height:24px;
+    width:24px;
+    background : url("/Image/image/footer/icons8-twitter-24.png") center no-repeat;
+}
+.youtube_icon{
+    height:24px;
+    width:24px;
+    background : url("/Image/image/footer/icons8-play-button-24.png") center no-repeat;
+}

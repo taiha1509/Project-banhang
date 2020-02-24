@@ -1,0 +1,13 @@
+
+nav .btn-success{
+    background-color: #5a88ca !important;
+    border-color: #5a88ca !important;
+    height: 39px;
+    padding-top: 8px !important;
+}
+.header-logo{
+    width: 150px;
+    height: 45px;
+    background: url("/Image/image/logo1.png") 0 center no-repeat;
+    margin-right: 20px;
+}
